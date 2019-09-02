@@ -1,0 +1,12 @@
+/* Section:feature-info */
+#feature-info ul li{
+   padding:0 4rem; 
+}
+
+#feature-info ul li a div{
+  width: 300px;
+  font-size:1.1rem;
+  justify-content: center;
+}
+
+

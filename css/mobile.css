@@ -1,0 +1,52 @@
+
+
+/* Section: feature-info  */
+#feature-info .feature-info-inner{
+  display: block;
+  padding: 0.7rem; 
+}
+
+#feature-info ul li a div{
+  width:360px; 
+  justify-content: left;
+  padding: 1rem 0 1rem 6rem; 
+}
+
+#feature-info .feature-info-inner li{
+  margin-bottom:1rem; 
+}
+
+/* navbar */
+@media(max-width:1020px){
+#navbar .navbar-util{
+  visibility:hidden; 
+}
+}
+
+
+/* Section:Explore */
+#explore, 
+#explore .items{
+  display: block;
+}
+
+#explore .items .item{
+  display:flex; 
+  padding: 0 0.2rem; 
+}
+
+#explore .items .item .img-1,
+#explore .items .item .img-2,
+#explore .items .item .img-3{
+height:90px; 
+width:300px; 
+} 
+
+
+#explore .s-heading{
+  padding-top:0!important; 
+
+}
+#explore .items .item .item-contents{
+  padding-left:1.5rem; 
+}
