@@ -4,7 +4,7 @@
 .menu-wrap {
   position: absolute;
   top: -20px;
-  /* left: 0rem; 终于找到bug了，mediaquery不起作用的原因QAQ  */
+  
   z-index: 1;
 }
 
