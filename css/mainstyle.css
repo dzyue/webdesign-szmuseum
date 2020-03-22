@@ -349,7 +349,7 @@ p {
 
 /* Showcase */
 #showcase {
-  height: 100vh;
+  height: 500px;
   overflow: hidden;
 }
 
@@ -424,7 +424,6 @@ p {
 
 /* newsticker section strat  */
 #newsticker {
-  margin-top: -100px;
   display: flex;
   left: 0;
   width: 100%;
