@@ -1,2 +1,2 @@
 # webdesign-szmuseum
-web design project
+HTML+CSS project
